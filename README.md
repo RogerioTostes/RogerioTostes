@@ -1,16 +1,16 @@
-### Hi there 👋
+# Rogério Tostes 💻
 
-<!--
-**RogerioTostes/RogerioTostes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RogerioTostes)](https://github.com/RogerioTostes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriotostes/)](https://www.linkedin.com/in/rogeriotostes/)
 
-Here are some ideas to get you started:
+## Hi everyone!
+### This is my Github!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ I'm Rogério Tostes. 
+- 💻 I am dotnet(dotnet Core) Developer.
+- 💻 I am Fullstack / Backend developer. 
+- 📚 I'm studying Data Science.
+
+
+Currently I work with maintenance and improvements in legacy systems in Vb.Net, I develop applications in Asp Net Core with Vue Js. I also have experience with MultiThread systems and communication between applications via Sockets, Microsoft tools such as ServiceBus and services in Azure. I study Vue js, Node js, React Native and do a Data Science BootCamp.
+I've worked in several areas as an instructor, developer, maintenance technician, support also in the infrastructure part. 
