@@ -7,13 +7,11 @@
 ### This is my Github!
 
 - ⭐ I'm Rogério Tostes. 
-- 💻 I am dotnet(dotnet Core) Developer.
-- 💻 I am Fullstack / Backend developer. 
-- 📚 I'm studying Data Science.
+- 💻 I am dotnet(dotnet Core) Developer. 
+- 📚 I'm studying Cloud AWS.
 
 
-Currently I work with maintenance and improvements in legacy systems in Vb.Net, I develop applications in Asp Net Core with Vue Js. I also have experience with MultiThread systems and communication between applications via Sockets, Microsoft tools such as ServiceBus and services in Azure. I study Vue js, Node js, React Native and do a Data Science BootCamp.
-I've worked in several areas as an instructor, developer, maintenance technician, support also in the infrastructure part. 
+Currently I work with .NET Core and AWS I develop and design corporate solutions on AWS, using its infrastructure, part of the back-end I work with ORMs like Entity, Dapper. I have knowledge of Swagger, messaging like Kafka, Cloud architecture patterns and models and projects like DDD, SOLID and Clean Architecture. Database SqlServer and MYSql, versioning with Git. 
 
 # Statistics
 <center>
